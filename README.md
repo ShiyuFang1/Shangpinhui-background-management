@@ -58,7 +58,7 @@ settings：项目配置项文件
 
 ## 技术选型
 
-![image-20220609120147762](https://150-9155-1312350958.cos.ap-chengdu.myqcloud.com/img202206091350091.png)
+![image-20220609120147762](https://raw.githubusercontent.com/ShiyuFang1/Shangpinhui-background-management/main/src/assets/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20220920115107.png)
 
 ## 登录业务
 
