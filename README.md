@@ -1,9 +1,6 @@
 ## Build Setup
 
-```bash
-# 克隆项目
-git clone https://github.com/wearetheone777/houtaiguanli.git
-
+```
 # 进入项目目录
 cd houtaiguanli
 
