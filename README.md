@@ -23,7 +23,7 @@ npm run dev
 
  -----Complete static components  
   -----Write API (replace with real interface)  
-  -----encapsulate two times of axios  
+  -----Encapsulate two times of axios  
   -----Solve the proxy cross-domain problem  
 
 ![image-20220609120548247](https://150-9155-1312350958.cos.ap-chengdu.myqcloud.com/img202206091350092.png)
