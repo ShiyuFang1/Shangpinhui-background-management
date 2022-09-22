@@ -32,7 +32,7 @@ npm run dev
 
 ![image-20220609132522159](https://150-9155-1312350958.cos.ap-chengdu.myqcloud.com/img202206091350093.png)
 
-## Trademark Component  
+## Product Component  
 
 ![image-20220609132657102](https://150-9155-1312350958.cos.ap-chengdu.myqcloud.com/img202206091350094.png)
 
