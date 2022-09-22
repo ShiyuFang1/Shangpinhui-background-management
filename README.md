@@ -26,7 +26,7 @@ npm run dev
   -----Encapsulate two times of axios  
   -----Solve the proxy cross-domain problem  
 
-![image-20220609120548247](https://150-9155-1312350958.cos.ap-chengdu.myqcloud.com/img202206091350092.png)
+![image-20220609120548247](https://raw.githubusercontent.com/ShiyuFang1/Shangpinhui-background-management/main/src/assets/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20220922171600.png)
 
 ## Logout  
 
